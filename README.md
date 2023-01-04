@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
   - User Login Validation
   - See Order History (Database and Local Storage)
 
-# Features & Major Features
+# Features
   - Show products based on category
   - Shopping cart
   - Placing order
