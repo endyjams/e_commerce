@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
   - User Login Validation
   - See Order History (Database and Local Storage)
 
-# Features
+# Features & Major Features
   - Show products based on category
   - Shopping cart
   - Placing order
@@ -39,3 +39,10 @@ samples, guidance on mobile development, and a full API reference.
   - User Adress Location From Google Map
   - Zone based order
   - User Authentication
+  
+ # Major Features
+  - Firebase notification
+  - Payment (Paypal)
+  - Create New Products on the Backend
+  - See order details
+  - Update order status
