@@ -28,3 +28,14 @@ samples, guidance on mobile development, and a full API reference.
   - Order Status Checker
   - User Login Validation
   - See Order History (Database and Local Storage)
+
+# Features
+  - Show products based on category
+  - Shopping cart
+  - Placing order
+  - Order Tracking
+  - User Profile
+  - Sign in & Sign Up
+  - User Adress Location From Google Map
+  - Zone based order
+  - User Authentication
